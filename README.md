@@ -1,0 +1,1 @@
+A starting point for my Web Type Portfolio. I liked the simpistic design of a w3schools template and am attempting to link both videos and other HTML files to the existing code, also implementing a Java element of my own for the photo presentation.
